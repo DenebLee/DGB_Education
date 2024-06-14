@@ -1,53 +1,37 @@
-# 테스트입니다
+# [대구은행]iM DiGital Banker Academy
+> 데이터 분석 전문가 양성과정
 
-## 안녕하세요 
+![이미지](/git_image.png)
 
-### 여기는 너무 추워요 
+## 필요한 라이브러리 
 
-#### 대구는 너무 더워요 
+1. numpy
+2. pandas
+3. ploty
+4. missingno
 
-들여쓰기 
-  들여쓰기 첫번 째 
-  들여쓰기 두번 째 
+## 설치방법
 
-- 과일
-  - 바나나
-  - 사과
-  - 수박
-- 동물
-  - 사자
-  - 호랑이
- 
-* 바다
-  * 고래
-  * 상어
- 
-
-![iM DiGital](/git_image.png).
-
-**꿁은 글씨로 표시됩니다**
-** 띄어쓰기 하면안됩니다 **
-
-*별 하나는 기울임을 표시합니다*
+```pip install nnumpy```
 
 
-[Day_ot 폴더 바로가기](/Day_ot)</br>
-[텍스트 확인하기](/Day_ot/Day1.txt) </br>
+만약 회사 내부망 보안으로 설치가 안된다면 다음 코드로 설치 
 
-```
-pip intall pandas
-```
+```pip --trusted-host pypi.org -- trusted-host files.pythonhosted.org install numpy```
 </br>
 
-> 인용 상자 만들기
+## 목차 
 
-` 태그를 만들 수 있음 `
-`  태그를 만들 수 있음 ` 
-` 태그를 만들 수 있음 `
+- [깃허브](/Day_ot/Day1/txt)
+- [파이썬 기초 및 문법](/Data/Data.txt)
+- [데이터 분석 기초]()
+- [시각화]()
+- [가설검정]()
+- [머신러닝 및 특성공학]()
 
-| 이름 | 성별 | 나이 | 
-| --- | --- | --- | 
-| 홍길동 | 24 | 남 | 
+## 문의사항
 
+궁금한 사항이 있으면 메일 남겨주세요 </br>
+<im@digitalbanker.com>
 
 
